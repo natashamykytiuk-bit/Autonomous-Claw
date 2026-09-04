@@ -1,4 +1,4 @@
-# autonomous-claw
+# Autonomous Claw
 
 An Arduino Uno reads distance from an ultrasonic sensor, drives a 180° servo to open/close the claw, and runs a four state machine.
 
